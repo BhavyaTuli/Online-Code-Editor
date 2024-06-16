@@ -15,5 +15,5 @@ This is an online code editor specifically designed for HTML, CSS, and JavaScrip
     
 # Technologies Used:
 
-    HTML5, CSS3, JavaScript
+    HTML5, CSS3
     
